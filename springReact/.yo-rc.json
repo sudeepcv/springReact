@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sudeep"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "springReact",
+    "packageName": "com.sudeep",
+    "packageFolder": "com/sudeep",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjQ0YWNiZjg4YzRkZWUxZjM5MThkNjAyODFmYTc4OWY1OGJkNWU2ZWIyZDJjZTliMTE2NGQ0M2E2YmU4MzZhNmUyZTU1NTViMjZhNmEwMTkxMTkxMDQ3MzUxNzE1ZjcyMjI3ZDQxODE5N2FjOWU1ODUyYmY4N2UzZTkyMThjZDY=",
+    "clientFramework": "react",
+    "clientTheme": "yeti",
+    "clientThemeVariant": "primary",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
